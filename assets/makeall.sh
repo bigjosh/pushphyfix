@@ -1,4 +1,4 @@
-pushd bbbphyfix
+pushd phyreg
 make clean
 make install
 popd
